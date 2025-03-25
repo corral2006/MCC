@@ -34,6 +34,7 @@
 }
 
 
+
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
 #pageintro{padding:200px 0 300px;}/* 300px => 100px for #introblocks negative margin */
@@ -243,13 +244,6 @@ td{border-width:0 1px;}
 .faico a{color:inherit; background-color:#161616;}
 .faico a:hover{color:#FFFFFF;}
 
-.faicon-dribble:hover{background-color:#EA4C89;}
-.faicon-facebook:hover{background-color:#3B5998;}
-.faicon-google-plus:hover{background-color:#DB4A39;}
-.faicon-linkedin:hover{background-color:#0E76A8;}
-.faicon-twitter:hover{background-color:#00ACEE;}
-.faicon-vk:hover{background-color:#4E658E;}
-
 
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
@@ -314,13 +308,13 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Content Area */
 .overview a{color:inherit;}
-.overview article:hover a{color:#FF3F4A;}
+.overview article:hover a{color:#4bc353;}
 
 #testimonials blockquote{color:#474747; background-color:#FFFFFF;}
-#testimonials blockquote:hover{color:#FFFFFF; background-color:#A60009;}
+#testimonials blockquote:hover{color:#FFFFFF; background-color:#4bc353;}
 #testimonials blockquote::before{color:rgba(0,0,0,.1);}
 #testimonials blockquote::after{border-top-color:#FFFFFF;}
-#testimonials blockquote:hover::after{border-top-color:#A60009;}
+#testimonials blockquote:hover::after{border-top-color:#4bc353;}
 
 
 /* Footer */
